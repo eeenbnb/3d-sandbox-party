@@ -1,0 +1,13 @@
+.side-menu{
+  float: left;
+  background: #ccc;
+  height: 100%; 
+}
+.side-menu ul{
+  padding: 0 0 0 0;
+}
+.side-menu ul li {
+  display: list-item;
+  list-style-type: none;
+  background: #ccc;
+}
